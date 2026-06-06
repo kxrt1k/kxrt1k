@@ -16,11 +16,7 @@
     <a href="https://www.hackerrank.com/certificates/aa1cea6b7917">
       <img src="https://img.shields.io/badge/Certification_1-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Cert 1"/>
     </a>
-    <a href="YOUR_CERTIFICATION_LINK_HERE">
-      <img src="https://img.shields.io/badge/Certification_2-005571?style=for-the-badge&logo=coursera&logoColor=white" alt="Cert 2"/>
-    </a>
-    <a href="YOUR_CERTIFICATION_LINK_HERE">
-      <img src="https://img.shields.io/badge/Certification_3-F9A03C?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cert 3"/>
+
     </a>
   </p>
 </div>
@@ -53,8 +49,8 @@
 ---
 
 ### 🏆 Certifications
-- [**Certification Name 1**](https://www.hackerrank.com/certificates/aa1cea6b7917) - *Hackerrank*
-- [**Certification Name 2**](YOUR_CERTIFICATION_LINK_HERE) - *Issuing Organization*
+- [**SQL CERTIFICATION**](https://www.hackerrank.com/certificates/aa1cea6b7917) - *Hackerrank*
+
 
 ---
 
