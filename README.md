@@ -16,8 +16,6 @@
     <a href="https://www.hackerrank.com/certificates/aa1cea6b7917">
       <img src="https://img.shields.io/badge/Certification_1-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Cert 1"/>
     </a>
-
-    </a>
   </p>
 </div>
 
