@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,postgres," />
   </a>
 </p>
 
@@ -42,9 +42,8 @@
 
 ### 🏆 Certifications
 - [**SQL CERTIFICATION**](https://www.hackerrank.com/certificates/aa1cea6b7917) - *Hackerrank*
-<br>
 
--[**Intermediate Github Concepts**](https://drive.proton.me/urls/FQVHDBNXXG#4ThYISDZ7b0n) - *Datacamp*
+- [**Intermediate Github Concepts**](https://drive.proton.me/urls/FQVHDBNXXG#4ThYISDZ7b0n) - *Datacamp*
 
 ---
 
