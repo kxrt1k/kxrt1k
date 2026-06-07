@@ -12,20 +12,16 @@
   </p>
 
   <!-- Certifications Badges (You can edit these to match your certs!) -->
-  <p>
-    <a href="https://www.hackerrank.com/certificates/aa1cea6b7917">
-      <img src="https://img.shields.io/badge/Certification_1-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Cert 1"/>
-    </a>
-  </p>
+
 </div>
 
----
+
 
 ### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,postgres," />
+    <img src="https://skillicons.dev/icons?i=py,mysql,postgres,sqlite," />
   </a>
 </p>
 
