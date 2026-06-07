@@ -42,8 +42,9 @@
 
 ### 🏆 Certifications
 - [**SQL CERTIFICATION**](https://www.hackerrank.com/certificates/aa1cea6b7917) - *Hackerrank*
-\n
-[**Intermediate Github Concepts**](https://drive.proton.me/urls/FQVHDBNXXG#4ThYISDZ7b0n) - *Hackerrank*
+<br>
+
+-[**Intermediate Github Concepts**](https://drive.proton.me/urls/FQVHDBNXXG#4ThYISDZ7b0n) - *Datacamp*
 
 ---
 
