@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,postgres,sqlite," />
+    <img src="https://skillicons.dev/icons?i=py,mysql,postgres,sqlite,mongodb" />
   </a>
 </p>
 
